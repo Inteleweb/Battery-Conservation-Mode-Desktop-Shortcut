@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Lenovo\PWRMGRV\Battery]
+"ChargeStartPercentage"=dword:0000004b  ; 75 in hex
+"ChargeStopPercentage"=dword:00000050   ; 80 in hex
